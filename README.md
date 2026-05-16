@@ -1,7 +1,7 @@
 # BriefKit MCP Server
 
 Engineer-grade SaaS specification generator for AI build tools.
-
+[![glama badge](https://glama.ai/mcp/servers/mithun4elp/briefkit-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/mithun4elp/briefkit-mcp-server)
 ## What it does
 
 This MCP server lets AI assistants (Claude, ChatGPT, etc.) generate structured SaaS specifications on demand. When a user asks about building a SaaS product, the AI can call these tools to produce production-ready specs.
